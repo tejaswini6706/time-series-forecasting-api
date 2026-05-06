@@ -70,3 +70,49 @@ Example:
     {"date": "2026-01-01", "sales": 1200}
   ]
 }
+
+## 🌐 API
+Built using FastAPI  
+
+**Endpoint:**
+GET /predict?state=STATE_NAME
+
+---
+
+## ⚙️ Tech Stack
+- Python  
+- Pandas, NumPy  
+- Scikit-learn  
+- XGBoost  
+- Prophet  
+- TensorFlow/Keras  
+- FastAPI  
+- Matplotlib  
+
+---
+
+## ▶️ How to Run
+1. Clone the repo  
+2. Open notebook in Google Colab  
+3. Install dependencies  
+4. Upload dataset  
+5. Run all cells  
+6. Start API  
+
+---
+
+## 🎥 Demo
+(Add your video link here)
+
+---
+
+## 🚀 Future Work
+- Hyperparameter tuning  
+- Add external features  
+- Cloud deployment  
+- Dashboard UI  
+
+---
+
+## 👩‍💻 Author
+ Tanguturi Tejaswini
